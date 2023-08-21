@@ -29,7 +29,7 @@ Music, a project that has meaningful impact, talking to users!
 Getting no fresh air and meetings I have no purpose in.  
 
 ### Introvert or extrovert?
-I’m a BIG introvert - but I love to get to know people and chat once I get comfortable! 
+I lean towards the introverted side - but I love to get to know people and chat, especially about topics I am passionate in! 
 
 ### What is your approach to problem solving? Research or dive in?
 A combination of both. I like being organized and prepared before starting a task. I believe a strong understanding of a project beforehand allows me to empathize with the user more, which helps me deliver more meaningful, positive change. 
@@ -44,16 +44,16 @@ I like receiving kind and constructive feedback, I know that there is always mor
 Sitting in a chair all day (going on walks every now and then is key!) and a dull office environment. 
 
 ### Are you open to mentoring others? On what topics?
-I would love to mentor others in UX/UI design!
+I would love to teach others about visual design. This topic covers how the aesthetic of a screen can make or break the users initial impression of your product. I would teach others how to create the correct balance of typography, colours, spacing, and images - and how these elements all need to work together to create a beautiful product. 
 
 ### Are you looking to be mentored? On what topics?
-There are so many topics I would love to advance in: back end development and databases in particular. 
+There are so many topics I would love to advance in: back end development is a particular topic I would like to learn more about. I find that since I work so closely with developers, having an understanding of their work makes me a better teammate and a better designer.  
 
 ### Technologies you like / dislike?
-I’m not too picky technology-wise, but I really like Figma and Adobe XD in terms of UX/UI technology. 
+There are so many wonderful technologies out there. My favourite prototyping technology is Figma, and my favourite visual art technology is procreate! 
  
 
 ## Other thoughts
 
-I seem quiet but I would love to chat! Feel free to send me a message :) 
+Feel free to reach out as I would love to chat! Send me a message :) 
 
