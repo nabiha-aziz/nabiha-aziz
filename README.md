@@ -50,7 +50,7 @@ I would love to teach others about visual design. This topic covers how the aest
 There are so many topics I would love to advance in: back end development is a particular topic I would like to learn more about. I find that since I work so closely with developers, having an understanding of their work makes me a better teammate and a better designer.  
 
 ### Technologies you like / dislike?
-There are so many wonderful technologies out there. My favourite prototyping technology is Figma, and my favourite visual art technology is procreate! 
+There are so many wonderful technologies out there. My favourite prototyping technology is Figma, and my favourite visual art technology is Procreate! 
  
 
 ## Other thoughts
